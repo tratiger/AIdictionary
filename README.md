@@ -21,9 +21,9 @@ Google App Script GitHub アシスタントでGASをgithubで管理できる
 
 4.ページのURLにDatabase IDが含まれるのでメモ
 
-https://www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...
+https:/www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...
 
-                                  |--------- Database ID --------|
+                                  　　|--------- Database ID --------|
 
 5.chatgptのapiキーを取得
 
