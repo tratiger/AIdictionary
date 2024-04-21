@@ -4,3 +4,5 @@ Notionにわからない単語を書いておくだけで自動で意味と例�
 ChatGPTのAPIとNotionAPIを取得して貼り付けるだけで動く 
 
 実行環境はGAS
+
+Google App Script GitHub アシスタントでGASをgithubで管理できる
