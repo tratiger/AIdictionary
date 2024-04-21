@@ -10,3 +10,4 @@ Google App Script GitHub アシスタントでGASをgithubで管理できる
 ## データベース(notion)の設定
 以下のようにしてください
 
+![スクリーンショット 2024-04-21 123121](https://github.com/tratiger/AIdictionary/assets/143635372/d4f342ae-5bf5-43ea-9378-9fb4b6942508)
