@@ -5,7 +5,7 @@ ChatGPTのAPIとNotionAPIを取得して貼り付けるだけで動く 　わか
 
 実行環境はGAS
 
-Google App Script GitHub アシスタントでGASをgithubで管理できる
+Google App Script GitHub アシスタントでGASをgithubで管理できるっぽい
 
 ## データベース(notion)の設定
 以下のようにしてください
