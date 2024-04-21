@@ -13,20 +13,20 @@ Google App Script GitHub アシスタントでGASをgithubで管理できる
 ![スクリーンショット 2024-04-21 123121](https://github.com/tratiger/AIdictionary/assets/143635372/d4f342ae-5bf5-43ea-9378-9fb4b6942508)
 
 ## 詳細手順
-1.New integrationの作成
+*New integrationの作成
 
-2.上の画像と同じデータベースを作成
+*上の画像と同じデータベースを作成
 
-3.ShareからAdd people, emails, groups, or integrationsをクリックして、先程作成したインテグレーションに共有
+*ShareからAdd people, emails, groups, or integrationsをクリックして、先程作成したインテグレーションに共有
 
-4.ページのURLにDatabase IDが含まれるのでメモ
+*ページのURLにDatabase IDが含まれるのでメモ
 
-https://www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...
+https://www.notion.so/myworkspace/*a8aec43384f447ed84390e8e42c2e089*?v=...
 
                                   　　|----------- Database ID -----------|
 
-5.chatgptのapiキーを取得
+*chatgptのapiキーを取得
 
-6.スプレッドシートとかでGASひらく
+*スプレッドシートとかでGASひらく
 
-7.コードこぴってapi,id入れて実行
+*コードこぴってapi,id入れて実行
